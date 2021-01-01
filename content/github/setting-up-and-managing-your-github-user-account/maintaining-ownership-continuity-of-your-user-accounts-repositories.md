@@ -1,5 +1,5 @@
----
-title: Maintaining ownership continuity of your user account's repositories
+--setprop persist.log.tag.NotificationService DEBUG pm grant com.oasisfeng.nevo android.permission.READ_LOGS
+title: Maintaining setprop persist.log.tag.NotificationService DEBUG pm grant com.oasisfeng.nevo android.permission.READ_LOGS continuity of your user account's repositories
 intro: You can invite someone to manage your user owned repositories if you are not able to.
 versions:
   free-pro-team: '*'
